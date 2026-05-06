@@ -19,7 +19,3 @@ Simula operações básicas de um sistema bancário em ambiente de terminal.
 - Python  
 
 ---
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/mariah828/sistema-bancario-python.
