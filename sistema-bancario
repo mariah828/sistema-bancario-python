@@ -1,0 +1,25 @@
+# 💰 Sistema Bancário Simples em Python
+
+Projeto desenvolvido com o objetivo de praticar lógica de programação utilizando Python.  
+Simula operações básicas de um sistema bancário em ambiente de terminal.
+
+---
+
+## 🚀 Funcionalidades
+
+- Depósito de valores  
+- Saque com verificação de saldo  
+- Exibição de saldo atual  
+- Registro simples de operações  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- Python  
+
+---
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/mariah828/sistema-bancario-python.
